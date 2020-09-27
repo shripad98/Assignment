@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Assignment</string>
+    <string name="ID_VALUE">ID</string>
+    <string name="title">Title</string>
+    <string name="year">Year</string>
+    <string name="categories">Categories</string>
+    <string name="duration">2h 10m</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="score">Score</string>
+    <string name="reviews">Reviews</string>
+    <string name="popularity">Popularity</string>
+    <string name="director">Director</string>
+    <string name="writer">Writer</string>
+    <string name="actor">Actor</string>
+    <string name="search">Search</string>
+    <string name="search_error">Please Enter Movie Name</string>
+    <string name="movie_list">Movie List</string>
+    <string name="movie_details">Movie Details</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
